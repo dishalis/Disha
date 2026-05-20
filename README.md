@@ -7,6 +7,8 @@
 
 ## about me
 1.pretty
+</p>
 2.smart
+</p>
 3.funny
-
+</p>
