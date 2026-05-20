@@ -1,9 +1,12 @@
 # Disha
 <p align="center">
-   <img width="1200" height="750" alt="5220089645562010625_121" src="https://github.com/user-attachments/assets/6d9063cd-6e6e-44a7-a5fb-bd3f687c240c" />
+   <img width="1920" height="336" alt="b6f4ff05-a27c-4060-9b44-aaed6906c964_rwc_0x112x1920x336x1920" src="https://github.com/user-attachments/assets/2d58d435-8179-46b0-bc81-5c87fa6f3bc4" />
 </p>
 
 ---
 
-## about me🩶
-*love u
+## about me
+1.pretty
+2.smart
+3.funny
+
