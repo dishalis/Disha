@@ -6,9 +6,13 @@
 ---
 
 ## about me
-1.pretty
+🪩pretty
 </p>
-2.smart
+🍸smart
 </p>
-3.funny
+🫧funny
 </p>
+
+## all your dreams will come true if you follow me on instagram  
+<div class="socials">
+    <a href="https://instagram.com/" class="social-link" target="_blank">Instagram</a>
